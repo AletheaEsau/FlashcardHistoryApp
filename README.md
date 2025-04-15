@@ -4,6 +4,68 @@ A quiz app asking you questions about history events and people in history.
 GitHub:
 YouTube:
 
+The History Flashcard Quiz App is designed to make learning history fun, interactive, and efficient. It's built using Kotlin in Android Studio and helps users test their knowledge through a flashcard-style quiz format. Whether you're a student prepping for exams or just brushing up on your trivia, this app keeps things light, engaging, and educational.
+
+What it does:
+Presents a set of flashcards with historical questions
+
+Gives immediate feedback after each answer
+
+Shows a final score with a motivational message
+
+Lets users review questions and correct answers afterward
+Design Goals & Key Considerations
+When designing this app, we focused on three things: keeping it simple, making it visually appealing, and staying true to the historical theme.
+User Experience (UX)
+Clear navigation from screen to screen
+Feedback that motivates users to keep learning
+Easy-to-tap buttons for a smooth experience
+Visual Design (UI)
+Clean layouts that feel focused, not cluttered
+Readable text over textured backgrounds
+Thematic imagery and color choices that reflect a classic, scholarly vibe
+Images & Themes: Bringing History to Life
+The images used in the app are handpicked to match the feel of history, learning, and achievement.
+Welcome Screen
+Image: A vintage world map
+
+Why? Sets the tone — like stepping into a time machine or old library
+
+Design Touch: Faded overlay to make sure the welcome text pops
+Flashcard Screen
+Image: Aged parchment or old paper texture
+
+Why? Mimics the look of ancient scrolls or historical documents
+
+Design Touch: A light overlay to keep focus on the question and answer buttons
+Score & Review Screen
+Image: Laurel wreath or certificate-style background
+Why? Feels like a reward or achievement at the end of the quiz
+Design Touch: Clean layout to showcase the score and review button
+To make sure the text is always readable, we used a dark overlay (#80000000) on top of the images.
+Colors That Work (and Why We Picked Them)
+Element	Color	Hex	Why we chose it
+Overlay	Dark Black	#80000000	Helps text stand out on busy images
+Main Button	Amber Yellow	#FFC107	Friendly, positive, attention-grabbing
+Button Text	Black	#000000	High contrast, easy to read
+Headline Text	White	#FFFFFF	Works well on dark backgrounds
+Correct Answer	Green	#4CAF50	Instant positive feedback
+Incorrect Answer	Red	#F44336	Helps reinforce the correct answer later
+Card Background	Cream	#FFF8E1	Looks like old paper, fits the theme
+Fonts: Stylish but Functional
+Typography plays a big role in creating that historical, academic atmosphere — but we didn’t want it to feel too old-school.
+Fonts used:
+Headings: sans-serif-medium — clean and readable, with a bit of boldness
+Body text: sans-serif — neutral and legible for flashcards and reviews
+Optional style for polish: You could add something like Playfair Display or Cormorant Garamond to give it a classic, printed-book feel.
+GitHub + GitHub Actions: Version Control Like a Pro
+The whole project is managed on GitHub, which makes it easy to track changes, back up progress, and collaborate.
+How we used GitHub:
+Branching and merging for safe development
+Commit history for tracking updates
+Issues and Pull Requests to stay organized
+CI/CD with GitHub Actions:
+Every time we push code to GitHub, GitHub Actions runs a check to make sure the project still builds correctly
 
 Reference list:
 Bing. (2025) Background image for a flashcard quiz app score screen. Available at: https://www.bing.com/images/search?q=background%20image%20for%20a%20flash%20card%20quiz%20app%20score%20screen (Accessed: 3 April 2025).
