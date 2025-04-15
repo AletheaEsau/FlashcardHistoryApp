@@ -2,7 +2,7 @@
 A quiz app asking you questions about history events and people in history.
 
 GitHub:https://github.com/AletheaEsau/FlashcardHistoryApp.git 
-YouTube:
+YouTube:https://youtube.com/shorts/AvveLjap-TY 
 
 The History Flashcard Quiz App is designed to make learning history fun, interactive, and efficient. It's built using Kotlin in Android Studio and helps users test their knowledge through a flashcard-style quiz format. Whether you're a student prepping for exams or just brushing up on your trivia, this app keeps things light, engaging, and educational.
 
