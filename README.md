@@ -1,7 +1,7 @@
 # FlashcardHistoryApp
 A quiz app asking you questions about history events and people in history.
 
-GitHub:
+GitHub:https://github.com/AletheaEsau/FlashcardHistoryApp.git 
 YouTube:
 
 The History Flashcard Quiz App is designed to make learning history fun, interactive, and efficient. It's built using Kotlin in Android Studio and helps users test their knowledge through a flashcard-style quiz format. Whether you're a student prepping for exams or just brushing up on your trivia, this app keeps things light, engaging, and educational.
@@ -66,7 +66,24 @@ Commit history for tracking updates
 Issues and Pull Requests to stay organized
 CI/CD with GitHub Actions:
 Every time we push code to GitHub, GitHub Actions runs a check to make sure the project still builds correctly
-
+Avoids build errors sneaking in
+Keeps code quality high
+Lets you focus on building cool stuff, not fixing breakages later
+User Journey: How It All Flows
+Welcome Screen
+→ See a warm, map-themed intro
+→ Click "Start" to begin the quiz
+Flashcard Screen
+→ One historical question per screen
+→ Choose an answer, get feedback instantly
+Score Screen
+→ See your score out of 5
+→ If you got 3 or more: “Great job!”
+→ Less than 3? “Keep practicing!”
+Review Screen
+→ Tap "Review" to see all questions with correct answers
+→ Perfect for learning from mistakes
+This app brings together clean code, thoughtful design, and a theme that actually helps users connect with what they’re learning. The historical aesthetic isn’t just for looks — it makes the experience feel more immersive and authentic. Whether it’s used in classrooms or casually, this flashcard quiz app is a handy tool for anyone wanting to brush up on their history skills.
 Reference list:
 Bing. (2025) Background image for a flashcard quiz app score screen. Available at: https://www.bing.com/images/search?q=background%20image%20for%20a%20flash%20card%20quiz%20app%20score%20screen (Accessed: 3 April 2025).
 Microsoft Bing (2025) Background image for a flashcard quiz app – Image search results. Available at: https://www.bing.com/images/search?q=background+image+for+a+flash+card+quize+app&form=HDRSC4&first=1 (Accessed: 3 April 2025).
