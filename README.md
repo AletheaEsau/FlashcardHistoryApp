@@ -84,6 +84,8 @@ Review Screen
 → Tap "Review" to see all questions with correct answers
 → Perfect for learning from mistakes
 This app brings together clean code, thoughtful design, and a theme that actually helps users connect with what they’re learning. The historical aesthetic isn’t just for looks — it makes the experience feel more immersive and authentic. Whether it’s used in classrooms or casually, this flashcard quiz app is a handy tool for anyone wanting to brush up on their history skills.
+
+
 Reference list:
 Bing. (2025) Background image for a flashcard quiz app score screen. Available at: https://www.bing.com/images/search?q=background%20image%20for%20a%20flash%20card%20quiz%20app%20score%20screen (Accessed: 3 April 2025).
 Microsoft Bing (2025) Background image for a flashcard quiz app – Image search results. Available at: https://www.bing.com/images/search?q=background+image+for+a+flash+card+quize+app&form=HDRSC4&first=1 (Accessed: 3 April 2025).
