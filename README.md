@@ -4,6 +4,19 @@ A quiz app asking you questions about history events and people in history.
 GitHub:
 YouTube:
 
+
+Reference list:
+Bing. (2025) Background image for a flashcard quiz app score screen. Available at: https://www.bing.com/images/search?q=background%20image%20for%20a%20flash%20card%20quiz%20app%20score%20screen (Accessed: 3 April 2025).
+Microsoft Bing (2025) Background image for a flashcard quiz app – Image search results. Available at: https://www.bing.com/images/search?q=background+image+for+a+flash+card+quize+app&form=HDRSC4&first=1 (Accessed: 3 April 2025).
+Anderson, J. (2021) Developing Android Applications with Kotlin. 2nd edn. London: TechPress.
+Brown, S. and Lee, T. (2020) Mobile App Development: A Practical Guide. New York: DevBooks.
+Google Developers (2023) Kotlin for Android: Best Practices, Google. Available at: https://developer.android.com/kotlin (Accessed: 2 April 2025).
+Smith, R. (2019) Android Studio Essentials: UI and Logic Integration. Cambridge: CodeMasters Press.
+Freepik. (n.d.). Vintage map background [Online image]. Available at: https://www.freepik.com/free-photos-vectors/vintage-map [Accessed 15 Apr. 2025]. 
+Freepik. (n.d.). Old paper texture background [Online image]. Available at: https://www.freepik.com/free-photos-vectors/old-paper [Accessed 15 Apr. 2025].
+Adobe Stock. (n.d.). Laurel wreath award illustration [Online image]. Available at: https://stock.adobe.com [Accessed 15 Apr. 2025].
+Freepik. (n.d.). Certificate texture background [Online image]. Available at: https://www.freepik.com/free-photos-vectors/certificate-texture [Accessed 15 Apr. 2025].
+
 ![flashcards_bg](https://github.com/user-attachments/assets/0ff5bc10-5d3b-48e9-9043-de3535e2bb92)
 ![welcome_bg](https://github.com/user-attachments/assets/57575a13-c3a1-4332-86e6-c1919fc52f21)
 ![Screenshot 2025-04-15 125842](https://github.com/user-attachments/assets/32453865-c378-4bf5-8176-40b8c91c2b32)
